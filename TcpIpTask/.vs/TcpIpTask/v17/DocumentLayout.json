@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcpclient\\tcpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\tcpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347A85FB-481D-4ECA-AF60-368D8FF594B0}|TcpListener\\TcpListener.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcplistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347A85FB-481D-4ECA-AF60-368D8FF594B0}|TcpListener\\TcpListener.csproj|solutionrelative:tcplistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347A85FB-481D-4ECA-AF60-368D8FF594B0}|TcpListener\\TcpListener.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcplistener\\tcplistener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{347A85FB-481D-4ECA-AF60-368D8FF594B0}|TcpListener\\TcpListener.csproj|solutionrelative:tcplistener\\tcplistener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcpclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|c:\\users\\lithium\\desktop\\tcp-master\\tcpiptask\\tcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50253EE6-02E7-49E4-AC6E-BDD2D162DA3A}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TCPClient\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "TCPClient\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:21:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TcpListener",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TcpListener\\TcpListener.csproj",
+              "RelativeDocumentMoniker": "TcpListener\\TcpListener.csproj",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TcpListener\\TcpListener.csproj",
+              "RelativeToolTip": "TcpListener\\TcpListener.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T17:17:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\TCPClient.csproj",
+              "RelativeDocumentMoniker": "TCPClient\\TCPClient.csproj",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\TCPClient.csproj",
+              "RelativeToolTip": "TCPClient\\TCPClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T17:16:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TCPClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\MainWindow.xaml",
+              "RelativeToolTip": "TCPClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T17:15:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TCPClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TCPClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TCPClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:15:36.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TcpListener\\Program.cs",
+              "RelativeDocumentMoniker": "TcpListener\\Program.cs",
+              "ToolTip": "C:\\Users\\LITHIUM\\Desktop\\Tcp-master\\TcpIpTask\\TcpListener\\Program.cs",
+              "RelativeToolTip": "TcpListener\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:15:36.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
